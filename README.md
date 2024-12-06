@@ -95,7 +95,7 @@ We want to give a huge shoutout to everyone who has contributed to the project! 
 If you have any questions, feel free to reach out:
 
 - **Email**: your-email@example.com
-- **LinkedIn**: [Rohan Naagae](https://www.linkedin.com/in/chrohangurjar1)
+- **LinkedIn**: [Rohan Naagar](https://www.linkedin.com/in/chrohangurjar1)
 - **GitHub**: [Rohan Naagar](https://github.com/chrohangurjar1)
 
 ---
